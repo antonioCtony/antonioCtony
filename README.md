@@ -18,14 +18,6 @@
 - 🐍 Desenvolvedor do meu próprio jogo da cobrinha!
 - 🌱 Sempre aprendendo Git, GitHub e boas práticas de desenvolvimento
 
----
-
-### 📫 Vamos conversar!
-- ✉️ [Email] - (adicione seu email aqui se quiser)
-- 💼 [LinkedIn] - (adicione seu LinkedIn aqui se quiser)
-- 🌐 [Meu Portfólio] - (em breve!)
-
----
 
 ### 📈 Estatísticas do GitHub
 <p align="center">
