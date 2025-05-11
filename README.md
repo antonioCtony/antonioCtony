@@ -27,4 +27,4 @@
 
 ---
 
-> 🎮 **"Assim como no jogo da cobrinha, sigo crescendo um pouco mais a cada dia!"**
+
