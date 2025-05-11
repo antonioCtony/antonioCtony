@@ -1,16 +1,38 @@
-## Hi there 👋
+<h1 align="center">🐍 Olá, eu sou o Tony! 🐍</h1>
 
-<!--
-**antonioCtony/antonioCtony** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/antonioCtony/antonioCtony/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  🎯 Sempre em busca de novos conhecimentos para evolução pessoal e profissional.<br>
+  💻 Apaixonado por tecnologia, programação e automações.<br>
+  🚀 Atualmente trabalhando em projetos de lógica de programação, APIs e sistemas web.<br>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔥 Sobre mim
+- 🎓 Estudante de Ciência da Computação
+- 🛠️ Trabalhando com Python, Java, MariaDB e Flask
+- 🐍 Desenvolvedor do meu próprio jogo da cobrinha!
+- 🌱 Sempre aprendendo Git, GitHub e boas práticas de desenvolvimento
+
+---
+
+### 📫 Vamos conversar!
+- ✉️ [Email] - (adicione seu email aqui se quiser)
+- 💼 [LinkedIn] - (adicione seu LinkedIn aqui se quiser)
+- 🌐 [Meu Portfólio] - (em breve!)
+
+---
+
+### 📈 Estatísticas do GitHub
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=antonioCtony&show_icons=true&theme=dark" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antonioCtony&layout=compact&theme=dark" width="300"/>
+</p>
+
+---
+
+> 🎮 **"Assim como no jogo da cobrinha, sigo crescendo um pouco mais a cada dia!"**
